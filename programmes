@@ -1,0 +1,76 @@
+/*
+	 *    String coding questions.
+
+2]Write java program to check two strings are anagrams or not?
+3]Write a java program to count the number of words in a string?
+4]Write a java program to count the total number of occurrences of a given character in a string without using any loop?
+5]Write a java program to reverse a string?
+6]Write a java program to remove all whilte spaces from a string?
+7]Write a java program to print first non repeated characters from string?
+8]How to reverse string in java using iteration and recursion?
+9]How to check if string contains only digits?
+10]Write a java program to reserve a given string with preserving the position of spaces?
+11]Write a java program to reverse each word of a given string?
+12]How to count number of vowels and consonants in a string?
+13]How do you convert string to integer and integer to string in java?
+14]Write a java program to find all permutation of a string?
+15]How to check if string is palindrome?
+16]How to remove duplicate characters from string?
+17]Write a java program to append a given string to a text file?
+18]Write a java program to check if a string contains another string?
+19]Write a program to remove given characters from string?
+20]How to sort strings in java?
+21]How do you find the most repeated word in a text file in java?
+22]How do you find fitst repeated and non-repeated characters in java?
+23]Write a java program to find number of characters, number of words and number of lines in a text file?
+
+1]Write a java program to print fionacci series?
+2]Write a java program to check a number is prime or not?
+3]How to swap two numbers in java?
+4]How to swap to numbers without using temp variable?
+5]Write a java program to reverse string without using api?
+6]Write a java program to reverse an array?
+7]Write a java program to reverse a number?
+8]Write a java program to find sum of digits of a number?
+9]Write a java program to sort map by value?
+10]Write a java program to calculate factorial of a number in java?
+11]Write a java program to find perfect number or not?
+12]Write a java program to implement bubble sort?
+13]Write a java program to check given number is binary or not?
+14]Write a java program to find armstrong number?
+15]Write a java program to find common elements between two arrays in java?
+16]Write a java program to reverse string using recursion?
+17]Write a java program to check two strings are anagrams or not?
+18]Write a java program to create deadlock between two threads?
+19]Write a java program to find factors of a number from 1 to 100
+20]Write a java program to find second largest element in array?
+21]Write a java program to print numbers without using loops?
+22]Write a java program to find missing number in an array?
+23]Write a java program to find duplicate number in an array?
+24]Write a java program to find factorial of a large number?
+25]Write a java program to print duplicates from a string?
+26]Write a java program to remove duplicates from string?
+27]Write a java program to find given number is even or odd?
+28]Write a java program to count number of vowels in a string?
+29]Write a java program to find floyds triangle in java?
+30]Write a java program to implement binary search of a number?
+
+
+1]How to find missing number in integer array of 1 to 100?
+2]How to find first non-repeating element in array of integers?
+3]How do you compare two arrays in java?
+4]How do you sort array elements?
+5]How to find duplicate number in integer array in java?
+6]How to find largest and smallest number in unsorted array?
+7]How to find repeated number in an array if it contains multiple duplicates?
+8]Write a java program to remove duplicates from array?
+9]Write a java program to find intersection of two sorted array?
+10]How to find kth smallest element in unsorted array?
+11]How to find kth largest element in unsorted array?
+12]How to find first repeating element in an array of integers?
+13]How to check if array contains a number in java?
+14]How to find top two numbers from an integer array?
+15]How to remove a given element from array in java?
+16]How to remove duplicates from array in place?
+17]How to merge two arrays in java?
+18]How reverse array in place in java?
