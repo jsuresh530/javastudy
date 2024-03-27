@@ -20,8 +20,8 @@ import java.util.Set;
 public class TestNetwork {
 
 	private static String systemHostAddress = getSystemHostAddress();
-	private static final String PRIMARY_URL = "uat42.auruspay.com";
-	private static final String SECONDARY_URL = "sgnd42.auruspay.com";
+	private static final String PRIMARY_URL = "XXX.gg.com";
+	private static final String SECONDARY_URL = "CCC.gg.com";
 	private static final String WINDOWS_OS = "Windows";
 	String logKey = "NW ";
 
